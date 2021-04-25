@@ -10,13 +10,18 @@ git clone https://github.com/mazlumabul/kodluyoruzIlkRepo.git
 
 # Projeyi clonladıktan sonra Visual Studio Code programında açınız.
 ---
-Linuz için 
+Linux için 
 ```
 cd kodluyoruzIlkRepo code
 ```
 # Contributing
 ---
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+# Başvuru Süreci Devam Eden BootCamp'ler
+---
+![Bootcampler](./img/bootcampler.jpg)
+
 
 # Licence
 ---
