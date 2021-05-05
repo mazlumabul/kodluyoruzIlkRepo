@@ -20,7 +20,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Başvuru Süreci Devam Eden BootCamp'ler
 ---
-![Bootcampler](img/bootcampler.jpg)
+[Bootcampler]![bootcampler](https://user-images.githubusercontent.com/44328234/117217989-019ef500-ae0b-11eb-8ae5-8c70388b394f.JPG)
+
 
 # İletişim Bilgilerim
 [Linkedin](https://www.linkedin.com/in/mazlum-abul/)
